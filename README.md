@@ -1,0 +1,1 @@
+This is shamiya's first git project
