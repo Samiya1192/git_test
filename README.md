@@ -1,1 +1,1 @@
-This is shamiya's first git project
+This is shamiya's first git project and for the sake of it
